@@ -1,4 +1,7 @@
 # SmartCropCare-using-React-Native-JS
+#cropcare 
+https://drive.google.com/file/d/1HVgqprfQylGn7OBgmscdk1qJ1FSLtq8J/view?usp=sharing
+
 
 The Smart Crop Care project is an AI-driven Expo React Native JS application designed to empower farmers by integrating technology into agriculture. This app provides farmers with essential tools to access agricultural news, real-time weather updates, disease detection, fertilizer recommendations, customer support, and an online store—all in one place.
 Many farmers struggle with unpredictable weather conditions, crop diseases, and accessing necessary resources like fertilizers and agricultural news. Smart Crop Care solves these challenges by offering a user-friendly mobile application that provides accurate weather forecasts, AI-powered crop disease detection, and seamless access to fertilizers and support services.
